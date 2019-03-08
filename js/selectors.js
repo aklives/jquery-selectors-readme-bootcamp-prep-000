@@ -15,5 +15,5 @@ function divSelector(){
 }
 
 function firstListItem(){
-  return $('ul:first-child').attr('src');
+  return $('ul:first-child');
 }
